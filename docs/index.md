@@ -16,3 +16,4 @@ Commit the file to your repository
 * [WordPress](https://github.com/keithgreer/gitignore/blob/master/WordPress.gitignore)
 * [CakePHP](https://github.com/keithgreer/gitignore/blob/master/CakePHP.gitignore)
 
+> Forked from [Github. gitignore](https://github.com/github/gitignore)

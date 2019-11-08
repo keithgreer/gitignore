@@ -1,3 +1,5 @@
+> Forked from [Github. gitignore](https://github.com/github/gitignore)
+
 # .gitignore Collection 
 
 A collection of .gitignore files from Github. 
@@ -16,4 +18,7 @@ Commit the file to your repository
 * [WordPress](https://github.com/keithgreer/gitignore/blob/master/WordPress.gitignore)
 * [CakePHP](https://github.com/keithgreer/gitignore/blob/master/CakePHP.gitignore)
 
-> Forked from [Github. gitignore](https://github.com/github/gitignore)
+
+
+<a class="keithgreeruk" title="Web Developer Northern Ireland" href="https://keithgreer.uk"><strong>keithgreer.uk</strong> &middot; Web Development Northern Ireland</a>
+
